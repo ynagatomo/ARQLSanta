@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BABCBF1F2770603700221ED3 /* ARQLView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BABCBF1E2770603700221ED3 /* ARQLView.swift */; };
+		BABCBF21277060C500221ED3 /* ARQLViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BABCBF20277060C500221ED3 /* ARQLViewController.swift */; };
+		BABCBF252771795400221ED3 /* santaScene.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = BABCBF242771795400221ED3 /* santaScene.rcproject */; };
 		BABE4A3D27704A1D00D54C15 /* arqlsantaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BABE4A3C27704A1D00D54C15 /* arqlsantaApp.swift */; };
 		BABE4A3F27704A1D00D54C15 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BABE4A3E27704A1D00D54C15 /* ContentView.swift */; };
 		BABE4A4127704A1E00D54C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BABE4A4027704A1E00D54C15 /* Assets.xcassets */; };
@@ -15,6 +18,9 @@
 
 /* Begin PBXFileReference section */
 		BABCBF1D27704E9B00221ED3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		BABCBF1E2770603700221ED3 /* ARQLView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARQLView.swift; sourceTree = "<group>"; };
+		BABCBF20277060C500221ED3 /* ARQLViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARQLViewController.swift; sourceTree = "<group>"; };
+		BABCBF242771795400221ED3 /* santaScene.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = santaScene.rcproject; sourceTree = "<group>"; };
 		BABE4A3927704A1D00D54C15 /* ARQL Santa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ARQL Santa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BABE4A3C27704A1D00D54C15 /* arqlsantaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arqlsantaApp.swift; sourceTree = "<group>"; };
 		BABE4A3E27704A1D00D54C15 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,7 +61,10 @@
 				BABCBF1D27704E9B00221ED3 /* Info.plist */,
 				BABE4A3C27704A1D00D54C15 /* arqlsantaApp.swift */,
 				BABE4A3E27704A1D00D54C15 /* ContentView.swift */,
+				BABCBF1E2770603700221ED3 /* ARQLView.swift */,
+				BABCBF20277060C500221ED3 /* ARQLViewController.swift */,
 				BABE4A4027704A1E00D54C15 /* Assets.xcassets */,
+				BABCBF242771795400221ED3 /* santaScene.rcproject */,
 				BABE4A4227704A1E00D54C15 /* Preview Content */,
 			);
 			path = arqlsanta;
@@ -139,7 +148,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BABCBF1F2770603700221ED3 /* ARQLView.swift in Sources */,
+				BABCBF252771795400221ED3 /* santaScene.rcproject in Sources */,
 				BABE4A3F27704A1D00D54C15 /* ContentView.swift in Sources */,
+				BABCBF21277060C500221ED3 /* ARQLViewController.swift in Sources */,
 				BABE4A3D27704A1D00D54C15 /* arqlsantaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
