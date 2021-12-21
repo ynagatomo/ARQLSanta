@@ -12,3 +12,5 @@ This is related to the article about the AR Quick Look API and AR apps.
 
 ![captureapp11](https://user-images.githubusercontent.com/66309582/146874243-6cf1ec95-3118-49dc-a934-3832b9c57e78.PNG) ![captureapp12](https://user-images.githubusercontent.com/66309582/146874431-69fa31a9-6a7a-483a-b9e6-f0c9a2cc1d85.PNG)
 
+![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+
