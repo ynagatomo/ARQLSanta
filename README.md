@@ -1,9 +1,15 @@
 # ARQLSanta
 
+![santaIcon_180](https://user-images.githubusercontent.com/66309582/146909908-cf5482f2-97c2-481c-8461-72729df2ef39.png)
+
+
 This is a minimal AR iOS app that uses the AR Quick Look API, displaying the bundled rcproject file as an AR scene. In this scene there is a Santa doll that responds to taps.
 
 - Xcode 13.2.1
-- Target: iOS/iPadOS 14.0+
+- Target: iOS / iPadOS 14.0+
+
+Let's use Reality Composer to create your AR scene and replace the rcproject file in the Xcode project. Then you have your own AR app!
+
 
 This is related to the article about the AR Quick Look API and AR apps.
 
