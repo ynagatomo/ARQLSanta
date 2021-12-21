@@ -31,11 +31,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "santaIcon_120.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "santaIcon_180.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -71,16 +73,19 @@
       "size" : "40x40"
     },
     {
+      "filename" : "santaIcon_76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
+      "filename" : "santaIcon_152.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
     },
     {
+      "filename" : "santaIcon_167.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "83.5x83.5"
