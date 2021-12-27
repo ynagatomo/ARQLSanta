@@ -11,10 +11,10 @@ This is a minimal AR iOS app that uses the AR Quick Look API, displaying the bun
 Let's use Reality Composer to create your AR scene and replace the rcproject file in the Xcode project. Then you have your own AR app!
 
 
-This is related to the article about the AR Quick Look API and AR apps.
+This code is explained in the articles below.
 
-- [Qiita Article (Japanese)](https://qiita.com/AtarayoSD/private/2565669347104e824994)
-
+- [Article on Medium (in English)](https://atarayosd.medium.com/creating-an-ios-ar-app-using-the-ar-quick-look-api-fe31aede5267)
+- [Article on Qiita (in Japanese)](https://qiita.com/AtarayoSD/items/2565669347104e824994)
 
 ![captureapp11](https://user-images.githubusercontent.com/66309582/146874243-6cf1ec95-3118-49dc-a934-3832b9c57e78.PNG) ![captureapp12](https://user-images.githubusercontent.com/66309582/146874431-69fa31a9-6a7a-483a-b9e6-f0c9a2cc1d85.PNG)
 
